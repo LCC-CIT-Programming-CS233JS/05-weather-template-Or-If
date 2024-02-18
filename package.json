@@ -1,7 +1,6 @@
 {
   "name": "weatherapp",
   "version": "1.0.0",
-  "description": "",
   "main": "index.html",
   "scripts": {
     "webpack": "webpack",
@@ -27,5 +26,8 @@
     "bootstrap": "^5.2.1",
     "bootstrap-less": "^3.3.8",
     "less": "^4.1.1"
-  }
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
